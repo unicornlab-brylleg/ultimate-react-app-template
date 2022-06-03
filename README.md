@@ -7,7 +7,8 @@ Ultimate template for a React+TS single page application.
 1. Clone repository - `git clone https://github.com/BrylleGomez/ultimate-react-app.git`
 2. Rename folder name - for MacOS/Linux: `mv ultimate-react-app-template <your-desired-folder-name>`
 3. Navigate to project folder and delete .git folder and .gitignore file - for MacOS/Linux: `rm -rf .git` and `rm .gitignore`
-4. Initialize git in the repository, add .gitignore with the below contents, add desired remote repository as remote, and push initial commit to new remote.
+4. Install packages via `yarn install` or `yarn`
+5. Initialize git in the repository, add .gitignore with the below contents, add desired remote repository as remote, and push initial commit to new remote.
 
 ##### Sample .gitignore
 ```
